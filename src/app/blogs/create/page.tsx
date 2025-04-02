@@ -1,7 +1,9 @@
+import CreateBlogForm from "@/components/ui/BlogForm";
+
 const CreateBlog = () => {
     return (
         <div>
-            <p>This is CreateBlog</p>
+            <CreateBlogForm />
         </div>
     );
 };
