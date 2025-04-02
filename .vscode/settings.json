@@ -1,0 +1,8 @@
+{
+    "workbench.editor.customLabels.enabled": true,
+    "workbench.editor.customLabels.patterns": {
+        "*/src/app/blogs/create/page.tsx": "CreateBlog",
+        "*/src/app/blogs/[id]/page.tsx": "SingleBlog",
+        "*/src/app/about/page.tsx": "AboutPage"
+    }
+}
